@@ -10,20 +10,20 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-tarasovayuliya-plugin`:
+Next, install `eslint-plugin-path-checker-julitara`:
 
 ```sh
-npm install eslint-plugin-tarasovayuliya-plugin --save-dev
+npm install eslint-plugin-path-checker-julitara --save-dev
 ```
 
 ## Usage
 
-Add `tarasovayuliya-plugin` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `path-checker-julitara` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "tarasovayuliya-plugin"
+        "path-checker-julitara"
     ]
 }
 ```
@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "tarasovayuliya-plugin/rule-name": 2
+        "path-checker-julitara/rule-name": 2
     }
 }
 ```

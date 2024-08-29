@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin-tarasovayuliya-plugin",
-  "version": "0.0.2",
+  "name": "eslint-plugin-path-checker-julitara",
+  "version": "0.0.0",
   "description": "plugin for frontend team",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "yuliya",
+  "author": "Iuliia Tarasova",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "files": [
