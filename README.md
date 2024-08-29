@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "path-checker-julitara/rule-name": 2
+        "path-checker-julitara/path-checker": 2
     }
 }
 ```
