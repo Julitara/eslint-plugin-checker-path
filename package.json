@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-path-checker-julitara",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "plugin for frontend team",
   "keywords": [
     "eslint",
@@ -25,6 +25,7 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
+    "micromatch": "^4.0.5",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
