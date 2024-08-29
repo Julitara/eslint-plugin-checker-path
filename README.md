@@ -1,4 +1,4 @@
-# eslint-plugin-tarasovayuliya-plugin
+# eslint-plugin-path-checker-julitara
 
 plugin for frontend team
 
